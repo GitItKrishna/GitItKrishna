@@ -9,7 +9,7 @@
 - 💬 Ask me about **.net, Apache SOLR Search, LINQ, VBA, Angular JS,  blazor, containers, aws**
  
 
-## Languages and Tools:   
+## Main Skills:   
 
 <img src="https://github.com/user-attachments/assets/07000362-c8c8-4d4d-ae1a-c641d176243d" width="40" />
 <img src="https://github.com/user-attachments/assets/84531bbe-934b-4b5c-aa9e-a45aa1f4fdd7" width="40" />
@@ -24,6 +24,11 @@
 <img src="https://github.com/user-attachments/assets/53b34204-524d-4804-a648-cce2efcbe9cc" width="40" />
 <img src="https://github.com/user-attachments/assets/7595a567-aee9-4f83-a81f-0d7abb583d82" width="60" />
 <img src="https://github.com/user-attachments/assets/fa35592c-42b2-4028-9e57-104fe1bbf795" width="40" />
+
+## Studying:
+
+<img src="https://github.com/user-attachments/assets/f8877b6b-e6ef-4117-b28b-3f2527a32d6e" width="40" />
+
 
 
 
