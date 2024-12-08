@@ -28,7 +28,7 @@
 ## Studying:
 
 <img src="https://github.com/user-attachments/assets/f8877b6b-e6ef-4117-b28b-3f2527a32d6e" width="40" />
-
+<img src="https://github.com/user-attachments/assets/0949f918-eb1b-408c-9abf-1db2b2232f52" width="40" />
 
 
 
