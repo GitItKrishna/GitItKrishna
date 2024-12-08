@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on **.Net Application Development**.
 - 🌱 I’m currently learning **containerization and AWS ECS**.
 - 👯 I’m looking to collaborate on **teams**.
-- 💬 Ask me about **.net, Apache SOLR Search, LINQ, VBA, Angular JS,  blazor, containers, aws.** 
-**
-Languages and Tools:  **
+- 💬 Ask me about **.net, Apache SOLR Search, LINQ, VBA, Angular JS,  blazor, containers, aws**
+
+## Languages and Tools:   
 
 <img src="https://github.com/user-attachments/assets/07000362-c8c8-4d4d-ae1a-c641d176243d" width="40" />
 <img src="https://github.com/user-attachments/assets/84531bbe-934b-4b5c-aa9e-a45aa1f4fdd7" width="40" />
