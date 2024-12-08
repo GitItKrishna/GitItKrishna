@@ -1,10 +1,13 @@
 ## Hi there 👋, I'm Krishna Kumar
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GitItKrishna)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GitItKrishna) |  <a href="https://stackoverflow.com/users/4748078/krishna">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-8436-F47F24">                                             
+  </a>
 
 - 🔭 I’m currently working on **.Net Application Development**.
 - 🌱 I’m currently learning **containerization and AWS ECS**.
 - 👯 I’m looking to collaborate on **teams**.
 - 💬 Ask me about **.net, Apache SOLR Search, LINQ, VBA, Angular JS,  blazor, containers, aws**
+ 
 
 ## Languages and Tools:   
 
