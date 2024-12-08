@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Krishna Kumar
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GitItKrishna) |  <a href="https://stackoverflow.com/users/4748078/krishna">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-8436-F47F24">                                             
+    <img src="https://img.shields.io/badge/Stack%20Overflow-8.4k-F47F24">                                             
   </a>
 
 - 🔭 I’m currently working on **.Net Application Development**.
