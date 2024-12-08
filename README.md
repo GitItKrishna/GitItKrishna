@@ -15,7 +15,7 @@ I’m passionate about exploring AWS and I enjoy diving into use cases like serv
 - 👯 I’m looking to collaborate on **teams**.
 - 💬 Ask me about **.net, Apache SOLR Search, LINQ, VBA, Angular JS,  blazor, containers, aws**
  
-<h3 align="left">Main Skills:</h3>
+<h4 align="left">Main Skills:</h4>
 
 <img src="https://github.com/user-attachments/assets/07000362-c8c8-4d4d-ae1a-c641d176243d" width="40" />
 <img src="https://github.com/user-attachments/assets/84531bbe-934b-4b5c-aa9e-a45aa1f4fdd7" width="40" />
@@ -31,12 +31,12 @@ I’m passionate about exploring AWS and I enjoy diving into use cases like serv
 <img src="https://github.com/user-attachments/assets/7595a567-aee9-4f83-a81f-0d7abb583d82" width="60" />
 <img src="https://github.com/user-attachments/assets/fa35592c-42b2-4028-9e57-104fe1bbf795" width="40" />
 
-<h3 align="left">Studying:</h3>
+<h4 align="left">Studying:</h4>
 
 <img src="https://github.com/user-attachments/assets/f8877b6b-e6ef-4117-b28b-3f2527a32d6e" width="40" />
 <img src="https://github.com/user-attachments/assets/0949f918-eb1b-408c-9abf-1db2b2232f52" width="40" />
 
-<h3 align="left">I Like Documentation:</h3>
+<h4 align="left">I Like Documentation:</h4>
 I'm passionate about creating thorough , well-structured documentation for the codebases i work on. I enjoy the process of turning technical details into accessible and actionable insights. To me, documentation is more than just notes, its a bridge between developers, a guide for future maintainers, and a roadmap for ensuring long term success in the project. 
 Investing time in documentation not only helps teams collaborate effectively but also ensures that knowledge is preserved and shared. .
 
